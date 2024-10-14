@@ -43,7 +43,8 @@ else:
     print('Failed to download file')
 
 
-api_key = "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" #FIX ME 
+#api_key = "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" #FIX ME
+api_key = "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" #FIX ME
 
 #Setup VLM NIM Urls 
 neva_api_url = "https://ai.api.nvidia.com/v1/vlm/nvidia/neva-22b"
